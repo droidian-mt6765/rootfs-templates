@@ -29,10 +29,14 @@ actions:
     description: install cutie
     packages:
       - cutie-shell
+      - cutie-shell-config-hybris
       - cutie-settings-daemon
       - qml-module-cutie
       - cutie-settings
       - cutie-music
+      - cutie-terminal
+      - cutie-browser
+      - cutie-camera
       - qt5-qpa-hwcomposer-plugin
       - plymouth-theme-droidian
       - qtwayland5
@@ -54,6 +58,7 @@ actions:
       - droidian-devtools
       - droidian-quirks-regenerate-ssh-keys
       - adaptation-hybris-devtools
+      - cutie-widget-playground
 {{end}}
 
   - action: run
