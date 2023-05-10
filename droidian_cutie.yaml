@@ -31,14 +31,14 @@ actions:
       - cutie-shell
       - cutie-shell-config-hybris
       - cutie-settings-daemon
-      - qml-module-cutie
+      - qml6-module-cutie
       - cutie-settings
       - cutie-music
       - cutie-terminal
       - cutie-browser
-      - qt5-qpa-hwcomposer-plugin
+      - qt6-qpa-hwcomposer-plugin
       - plymouth-theme-droidian
-      - qtwayland5
+      - qt6-wayland
 
 {{ if eq $variant "phone" }}
   - action: apt
