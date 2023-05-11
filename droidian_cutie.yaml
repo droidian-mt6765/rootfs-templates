@@ -42,6 +42,7 @@ actions:
       - qtwayland5
       - cutie-camera
       - telegram-desktop
+      - fonts-noto-color-emoji
 
 {{ if eq $variant "phone" }}
   - action: apt
