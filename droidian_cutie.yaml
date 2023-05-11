@@ -39,6 +39,9 @@ actions:
       - qt6-qpa-hwcomposer-plugin
       - plymouth-theme-droidian
       - qt6-wayland
+      - qtwayland5
+      - cutie-camera
+      - telegram-desktop
 
 {{ if eq $variant "phone" }}
   - action: apt
