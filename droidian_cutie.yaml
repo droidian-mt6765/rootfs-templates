@@ -30,6 +30,7 @@ actions:
     packages:
       - cutie-shell
       - cutie-shell-config-hybris
+      - cutie-shell-config-mobile
       - cutie-settings-daemon
       - qml6-module-cutie
       - cutie-settings
