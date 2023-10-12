@@ -33,7 +33,6 @@ actions:
       - cutie-shell-config-mobile
       - cutie-keyboard-layouts
       - cutie-keyboard-style
-      - cutie-settings-daemon
       - qml6-module-cutie
       - cutie-settings
       - cutie-music
