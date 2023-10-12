@@ -42,7 +42,6 @@ actions:
       - plymouth-theme-droidian
       - qt6-wayland
       - qtwayland5
-      - cutie-camera
       - qt5-cameraplugin-aal
       - telegram-desktop
       - fonts-noto-color-emoji
